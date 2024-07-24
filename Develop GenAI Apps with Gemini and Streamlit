@@ -1,3 +1,6 @@
+https://senaisp.notion.site/Develop-GenAI-Apps-with-Gemini-and-Streamlit-laborat-rio-com-desafio-e9ac125cbcde4c99aa9235d985da1a54 
+
+
 import os
 import streamlit as st
 import logging
